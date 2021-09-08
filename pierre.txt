@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 Avoir un coeur de pierre
 Ou être malheureux comme les pierres
 Fuyez l’âge de pierre
 Jetez la première pierre
 Si vous êtes payé au lance-pierre
 Pensez que pierre qui roule n’amasse pas mousse
+=======
+Mieux vaut avoir un coeur de pierre
+Qu’être malheureux comme les pierres
+Le premier homme à jeter une insulte plutôt qu'une
+pierre est le fondateur de la civilisation.
+>>>>>>> autre_fin
